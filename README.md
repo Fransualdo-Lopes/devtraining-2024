@@ -7,5 +7,16 @@
 ```
 pnpm install
 ```
-
-##Running the app
+## Running the app
+# Start
+```
+pnpm run start
+```
+# Watch mode
+```
+pnpm run start:dev
+```
+# Production mode
+```
+pnpm run start:prod
+```
