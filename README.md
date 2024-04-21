@@ -35,3 +35,10 @@ pnpm run test:e2e
 ```
 pnpm run test:cov
 ```
+## Support
+Nest is an MIT-licensed open-source project. It thrives through sponsors and backers. If you wish to contribute, please read more here.
+
+## Stay in touch
+Author: Kamil Myśliwiec
+Website: https://nestjs.com
+Twitter: @nestframework
