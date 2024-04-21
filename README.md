@@ -4,5 +4,8 @@
 
 ## Installation
 
-```bash
+```
 pnpm install
+```
+
+##Running the app
