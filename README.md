@@ -39,6 +39,11 @@ pnpm run test:cov
 Nest is an MIT-licensed open-source project. It thrives through sponsors and backers. If you wish to contribute, please read more here.
 
 ## Stay in touch
+<ul>
 Author: Kamil Myśliwiec
 Website: https://nestjs.com
 Twitter: @nestframework
+Author: Kamil Myśliwiec
+Website: https://nestjs.com
+Twitter: @nestframework
+</ul>
