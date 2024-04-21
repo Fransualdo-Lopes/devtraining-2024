@@ -20,3 +20,18 @@ pnpm run start:dev
 ```
 pnpm run start:prod
 ```
+## Test
+# Unit tests
+```
+pnpm run test
+```
+
+# End-to-end tests
+```
+pnpm run test:e2e
+```
+
+# Test coverage
+```
+pnpm run test:cov
+```
