@@ -40,10 +40,10 @@ Nest is an MIT-licensed open-source project. It thrives through sponsors and bac
 
 ## Stay in touch
 <ul>
-Author: Kamil Myśliwiec
-Website: https://nestjs.com
-Twitter: @nestframework
-Author: Kamil Myśliwiec
-Website: https://nestjs.com
-Twitter: @nestframework
+<li>Author: Kamil Myśliwiec</li>
+<li>Website: https://nestjs.com</li>
+<li>Twitter: @nestframework</li>
+<li>Author: Kamil Myśliwiec</li>
+<li>Website: https://nestjs.com</li>
+<li>Twitter: @nestframework</li>
 </ul>
